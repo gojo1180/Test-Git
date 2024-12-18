@@ -14,7 +14,7 @@ oshi("Cindy Hapsari") :-
     gaya(tomboy),
     minat(bercanda).
 
-oshi("Gaby Warouw") :-
+oshi("Freyaa") :-
     kepribadian(pendiam),
     gaya(elegan),
     minat(bernyanyi).
